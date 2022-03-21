@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyRecyclerView</string>
+    <string name="paint_name">Lukisan</string>
+    <string name="detail">Detail Lukisan</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+</resources>
